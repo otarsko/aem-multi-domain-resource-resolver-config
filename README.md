@@ -1,0 +1,1 @@
+# aem-multi-domain-resource-resolver-config
